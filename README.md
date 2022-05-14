@@ -2,6 +2,12 @@
 
 Desenvolvi uma aplicação e uma API. A aplicação consome a API criada, fazendo simulações de saques e depósitos.
 
+## Aplicação
+
+
+https://user-images.githubusercontent.com/87664619/168405745-c0f0d470-704a-44cb-866e-753261486b2d.mp4
+
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Javacript``
